@@ -1,0 +1,33 @@
+{
+  "name": "github-organization-transferer",
+  "version": "1.0.0",
+  "description": "Transfer repositories in bulk",
+  "keywords": [
+    "github",
+    "repositories",
+    "transferer"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stoe/github-organization-transferer#readme",
+  "author": {
+    "name": "Stefan Stölzle",
+    "email": "stefan@github.com",
+    "url": "stefan.stoelzle.me"
+  },
+  "repository": "stoe/github-organization-transferer",
+  "bugs": {
+    "url": "https://github.com/stoe/github-organization-transferer/issues"
+  },
+  "engines": {
+    "node": ">=10.13.0",
+    "npm": ">=6.4.1"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^16.0.1",
+    "chalk": "^2.4.1",
+    "dotenv": "^6.1.0"
+  }
+}
