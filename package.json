@@ -26,7 +26,7 @@
     "start": "node ./index.js"
   },
   "dependencies": {
-    "@octokit/rest": "^16.0.1",
+    "@octokit/rest": "^18.0.14",
     "chalk": "^2.4.1",
     "dotenv": "^6.1.0"
   }
