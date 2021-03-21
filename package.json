@@ -8,16 +8,12 @@
     "transferer"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/stoe/github-organization-transferer#readme",
   "author": {
     "name": "Stefan Stölzle",
     "email": "stefan@github.com",
     "url": "stefan.stoelzle.me"
   },
-  "repository": "stoe/github-organization-transferer",
-  "bugs": {
-    "url": "https://github.com/stoe/github-organization-transferer/issues"
-  },
+  "repository": "github:stoe/github-organization-transferer",
   "engines": {
     "node": ">=10.13.0",
     "npm": ">=6.4.1"
