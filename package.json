@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^18.0.14",
-    "chalk": "^2.4.1",
+    "chalk": "^4.1.1",
     "dotenv": "^6.1.0"
   }
 }
